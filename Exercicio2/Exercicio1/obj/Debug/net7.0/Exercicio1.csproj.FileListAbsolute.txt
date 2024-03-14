@@ -1,0 +1,15 @@
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/bin/Debug/net7.0/Exercicio1
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/bin/Debug/net7.0/Exercicio1.deps.json
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/bin/Debug/net7.0/Exercicio1.runtimeconfig.json
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/bin/Debug/net7.0/Exercicio1.dll
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/bin/Debug/net7.0/Exercicio1.pdb
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/Exercicio1.csproj.AssemblyReference.cache
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/Exercicio1.AssemblyInfoInputs.cache
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/Exercicio1.AssemblyInfo.cs
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/Exercicio1.csproj.CoreCompileInputs.cache
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/Exercicio1.dll
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/refint/Exercicio1.dll
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/Exercicio1.pdb
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/Exercicio1.genruntimeconfig.cache
+/home/victorquirino/ResidênciaTic18/DotNet/DotNet-Avancado/Disciplia-DotNet-Avancado/Exercicio2/Exercicio1/obj/Debug/net7.0/ref/Exercicio1.dll
